@@ -5,7 +5,7 @@ YOLOv8을 fine-tuning하여 스폰지밥, 뚱이, 징징이를 탐지하고, Byt
 |---|---|---|
 | 3개 클래스 · 이미지 357장 | YOLOv8n | ByteTrack |
 
-**[결과 영상](tracking_5sec.mp4) · [학습한 모델](best.pt)**
+**[결과 영상](비키니시티.mp4) · [학습한 모델](best.pt)**
 
 ---
 
